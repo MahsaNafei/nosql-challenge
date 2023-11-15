@@ -49,8 +49,6 @@ mongoimport --type json -d uk_food -c establishments --drop --jsonArray establis
       2. Group the matches by Local Authority.
       3. Sort the matches from highest to lowest. Display the number of documents and the first 10 results in a Pandas DataFrame.
 
-#### 5. Convert Results to CSV
-   - Export the resulting DataFrame to a CSV file for future reference.
 
 ### Instructions
 To execute the project and access the data:
